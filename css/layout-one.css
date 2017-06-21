@@ -1,0 +1,23 @@
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.navbar {
+
+}
+
+.splash {
+
+}
+
+.top-info {
+
+}
+
+.bottom-info {
+
+}
+
+.footer
